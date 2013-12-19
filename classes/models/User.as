@@ -1,0 +1,1 @@
+﻿package classes.models {		public class User {				var pseudo:String;		public function User(_pseudo:String) {			this.pseudo = _pseudo;		}				public function getPseudo() {			return pseudo;		}	}	}

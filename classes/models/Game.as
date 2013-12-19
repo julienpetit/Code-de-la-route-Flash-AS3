@@ -1,0 +1,1 @@
+﻿package classes.models {		public class Game {		public static var user;	}	}
