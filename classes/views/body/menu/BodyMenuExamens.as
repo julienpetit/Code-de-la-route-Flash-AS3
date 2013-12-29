@@ -1,0 +1,1 @@
+﻿package classes.views.body.menu {	import flash.text.TextField;	import flash.display.Sprite;		public class BodyMenuExamens extends Sprite {				public static var ID:uint = 2;		public function BodyMenuExamens() {			var tf:TextField = new TextField();			tf.text = "Examens";			addChild(tf);					}	}	}
